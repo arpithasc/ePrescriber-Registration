@@ -15,7 +15,11 @@ Use this module to register a new prescriber in the system. This allows staff to
 9. **Admin Permissions:** Yes/No for administrative access.  
 10. **Degree/Suffix, NPI, Supervising Physician, Contracted Hours, License Number, DEA Number, EPCS:** Fill accordingly and upload required documents.
  ### FAQs
-[Q] How to set up Controlled Substances?
-[A] Select “Yes” for EPCS.  
-- **How to upload license documents?** Use the Upload button next to the License Number field.  
-- **Prescriber’s name not appearing?** Ensure Staff Info record exists first.     
+[Q] How do I set up the staff so they are able to prescribe Controlled Substances?  
+[A] Select “Yes” for EPCS on the ePrescribing Registration form if the staff member will be prescribing Controlled Substances.  
+
+[Q] How do I upload license documents?  
+[A] Use the Upload button next to the License Number field to upload scanned copies of the prescriber’s medical license.  
+
+[Q] What if the new prescriber’s name doesn’t appear in the list?  
+[A] Make sure the prescriber’s Staff Info record is created. If not, first create their Staff Info record and then return to the ePrescribing Registration form.  
