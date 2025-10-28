@@ -14,7 +14,6 @@ Use this module to register a new prescriber in the system. This allows staff to
 8. **Practice Locations:** Select location where prescriber will operate.  
 9. **Admin Permissions:** Yes/No for administrative access.  
 10. **Degree/Suffix:** Fill accordingly and upload required documents.
-11. ### Professional Credentials
 11. **NPI:** Enter the prescriber’s *National Provider Identifier (NPI)* — an **11-digit unique identifier** assigned to healthcare providers.  
 12. **Supervising Physician:** Select the supervising physician, if applicable.  
 13. **Contracted Hours:** Select the contracted hours for the prescriber.  
