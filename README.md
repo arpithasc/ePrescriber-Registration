@@ -13,7 +13,19 @@ Use this module to register a new prescriber in the system. This allows staff to
 7. **User Type:** Select from Prescriber, Clinical Staff, Non-Clinical Staff, or Front Desk.  
 8. **Practice Locations:** Select location where prescriber will operate.  
 9. **Admin Permissions:** Yes/No for administrative access.  
-10. **Degree/Suffix, NPI, Supervising Physician, Contracted Hours, License Number, DEA Number, EPCS:** Fill accordingly and upload required documents.
+10. **Degree/Suffix:** Fill accordingly and upload required documents.
+11. ### Professional Credentials
+11. **NPI:** Enter the prescriber’s *National Provider Identifier (NPI)* — an **11-digit unique identifier** assigned to healthcare providers.  
+12. **Supervising Physician:** Select the supervising physician, if applicable.  
+13. **Contracted Hours:** Select the contracted hours for the prescriber.  
+14. **License Number:** Enter the prescriber’s *state medical license number.*  
+    - Use the **Upload** button to attach scanned copies of the license document.  
+15. **Licensing State:** Select the state where the license was issued.  
+16. **DEA Number:** Enter the prescriber’s *DEA Registration Number.*  
+    - Use the **Upload** button to attach the prescriber’s DEA document.  
+17. **EPCS (Electronic Prescribing of Controlled Substances):**  
+    Select **Yes** if the staff member will be prescribing controlled substances, or **No** if they will not.
+
  ### FAQs
 [Q] How do I set up the staff so they are able to prescribe Controlled Substances?  
 [A] Select “Yes” for EPCS on the ePrescribing Registration form if the staff member will be prescribing Controlled Substances.  
