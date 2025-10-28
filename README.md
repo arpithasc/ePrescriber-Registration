@@ -1,8 +1,9 @@
 # ePrescriber-Registration
+### Overview
 The ePrescriber Registration module allows you to add a new prescriber in the system. It helps staff complete ePrescribing setup efficiently.
-
+### Getting Started
+Use this module to register a new prescriber in the system. This allows staff to complete ePrescribing setup efficiently.
 ![ePrescriber Form](./article_eprescriber_registration_overview_1.png)
-
 1. **Your Name:** Search for and select the person requesting registration.  
 2. **Your Email Address:** Enter the requester’s email.  
 3. **Your Phone Number:** Enter the requester’s phone number.  
