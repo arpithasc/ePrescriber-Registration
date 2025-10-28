@@ -14,4 +14,8 @@ Use this module to register a new prescriber in the system. This allows staff to
 8. **Practice Locations:** Select location where prescriber will operate.  
 9. **Admin Permissions:** Yes/No for administrative access.  
 10. **Degree/Suffix, NPI, Supervising Physician, Contracted Hours, License Number, DEA Number, EPCS:** Fill accordingly and upload required documents.
-    
+ ### FAQs
+[Q] How to set up Controlled Substances?
+[A] Select “Yes” for EPCS.  
+- **How to upload license documents?** Use the Upload button next to the License Number field.  
+- **Prescriber’s name not appearing?** Ensure Staff Info record exists first.     
