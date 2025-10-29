@@ -25,6 +25,8 @@ Use this module to register a new prescriber in the system. This allows staff to
 17. **EPCS (Electronic Prescribing of Controlled Substances):**  
     Select **Yes** if the staff member will be prescribing controlled substances, or **No** if they will not.
 
+---
+
  ### FAQs
 [Q] How do I set up the staff so they are able to prescribe Controlled Substances?  
 [A] Select “Yes” for EPCS on the ePrescribing Registration form if the staff member will be prescribing Controlled Substances.  
